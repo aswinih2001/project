@@ -1,0 +1,24 @@
+b.p{
+	image position: right top;
+	image border: black 50px;
+}
+
+d.p{
+	image position: right top;
+
+}
+.z{
+	background-color: black;
+	color: white;
+	height: 40px;
+	width: 400px;
+	text-align: center;
+	font: italic;
+	position: center;
+
+}
+
+
+
+
+
