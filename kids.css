@@ -1,0 +1,16 @@
+
+.nd{
+	background-image: url("https://images.squarespace-cdn.com/content/v1/5536830ce4b04567e58178fa/1442269579578-Q4G9UKYVRDTRHYPCT458/ke17ZwdGBToddI8pDm48kJ7qZ1-JE_FoR1l1hxe1rwh7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1USTaXnc-BfPdfvqEHmEKe4fsUgKcXgNesDD-imLI7XUFmV_9J_qnHt_-QtaTL6by5Q/Butterfly.jpg");
+        height="50px" ;
+        width="80px"; 
+}
+.z{
+	background-color: black;
+	color: white;
+	height: 40px;
+	width: 400px;
+	text-align: center;
+	font: italic;
+	position: center;
+
+}
